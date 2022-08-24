@@ -11,8 +11,6 @@ contador = 0
 contador2 = 0
 contador3 = 0
 contador4 = 0
-WinActivate, Minecraft 1.8.9
-WinSet, Top ,, Minecraft 1.8.9
 compra = 1
 
 
